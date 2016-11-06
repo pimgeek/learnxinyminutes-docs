@@ -10,8 +10,8 @@ translators:
     - ["Chenbo Li", "http://binarythink.net"]
 ---
 
-Java是一个通用的程序语言, 包含并发, 基于类的面向对象等特性
-[阅读更多](http://docs.oracle.com/javase/tutorial/java/index.html)
+Java 是一种通用程序语言，包含并发，基于类的面向对象等特性。
+[到 Oracle 官网阅读更多](http://docs.oracle.com/javase/tutorial/java/index.html)
 
 ```java
 // 单行注释
