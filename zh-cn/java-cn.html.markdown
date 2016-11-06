@@ -31,23 +31,22 @@ import java.util.ArrayList;
 // 导入 java.security 包中的所有类
 import java.security.*;
 
-// 每个 .java 文件都包含一个public类，这个类的名字必须和这个文件名一致。
+// 每个 .java 文件都包含一个 public 类，这个类的名字必须与 .java 的文件名一致。
 public class LearnJava {
 
-    // 每个程序都需要有一个main函数作为入口
+    // 每个程序都需要有一个 main 函数作为入口
     public static void main (String[] args) {
 
-        // 使用 System.out.println 来输出到标准输出
+        // 用 System.out.println 把结果打印到标准输出
         System.out.println("Hello World!");
         System.out.println(
             "Integer: " + 10 +
             " Double: " + 3.14 +
             " Boolean: " + true);
 
-        // 如果要在输出后不自动换行，可以使用System.out.print方法。
+        // 如果希望在输出后不要自动换行，可以使用 System.out.print 方法。
         System.out.print("Hello ");
         System.out.print("World");
-
 
         ///////////////////////////////////////
         // 类型与变量
