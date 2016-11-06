@@ -8,9 +8,10 @@ contributors:
     - ["Jake Prather", "http://github.com/JakeHP"]
 translators:
     - ["Chenbo Li", "http://binarythink.net"]
+    - ["pimgeek", "http://hintsnet.com/d/@pimgeek"]
 ---
 
-Java 是一种通用程序语言，包含并发，基于类的面向对象等特性。
+Java 是一种通用编程语言，它包含并发，基于类的面向对象等特性。
 [到 Oracle 官网阅读更多](http://docs.oracle.com/javase/tutorial/java/index.html)
 
 ```java
