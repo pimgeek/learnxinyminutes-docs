@@ -12,19 +12,22 @@ translators:
 ---
 
 Java 是一种通用编程语言，它包含并发，基于类的面向对象等特性。
-[到 Oracle 官网阅读更多](http://docs.oracle.com/javase/tutorial/java/index.html)
+[到 Oracle 官网了解更多信息](http://docs.oracle.com/javase/tutorial/java/index.html)
 
 ```java
-// 单行注释
+// 我是单行注释
+
 /*
-多行注释
-*/
-/**
-JavaDoc（Java文档）注释是这样的。可以用来描述类和类的属性。
+我是多行注释
 */
 
-// 导入 java.util中的 ArrayList 类
+/**
+我是 JavaDoc（Java文档）注释。可以用它来描述类和类的属性。
+*/
+
+// 导入 java.util 中的 ArrayList 类
 import java.util.ArrayList;
+
 // 导入 java.security 包中的所有类
 import java.security.*;
 
